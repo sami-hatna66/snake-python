@@ -1,7 +1,7 @@
 # Snake
 Snake programmed in python with PyQt for gui
 
-### Screenshots
+## Screenshots
 
 <p float="left">
   <img src="screenshots/screenshot1.png" width="400" />
