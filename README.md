@@ -1,5 +1,5 @@
 # Snake
-Snake programmed in python with PyQt for gui
+Snake programmed in Python/Qt
 
 ## Screenshots
 
